@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>f.lux</id>
+    <version>4.42</version>
+    <title>f.lux</title>
+    <authors>Stereopsis</authors>
+    <owners>Brian Mego</owners>
+    <licenseUrl>https://justgetflux.com/news/pages/eula/</licenseUrl>
+    <projectUrl>https://justgetflux.com/</projectUrl>
+    <iconUrl>https://justgetflux.com/flux-icon-sm.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Ever notice how people texting at night have that eerie blue glow?
+
+Or wake up ready to write down the Next Great Idea, and get blinded by your computer screen?
+
+During the day, computer screens look good—they're designed to look like the sun. But, at 9PM, 10PM, or 3AM, you probably shouldn't be looking at the sun.
+
+f.lux fixes this: it makes the color of your computer's display adapt to the time of day, warm at night and like sunlight during the day.
+
+It's even possible that you're staying up too late because of your computer. You could use f.lux because it makes you sleep better, or you could just use it just because it makes your computer look better.</description>
+    <summary>Better lighting...for your computer</summary>
+    <releaseNotes />
+    <copyright />
+    <tags>f.lux flux lighting monitor color admin</tags>
+    <packageSourceUrl>https://github.com/brianmego/Chocolatey/tree/master/packages/f.lux</packageSourceUrl>
+    <docsUrl>https://justgetflux.com/faq.html</docsUrl>
+    <mailingListUrl>https://forum.justgetflux.com/</mailingListUrl>
+  </metadata>
+</package>
